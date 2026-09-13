@@ -56,7 +56,20 @@ Acme Project/
 └── Acme_Comprehensive_Project_Context.docx
 ```
 
-Credentials are private setup requirements, not files to distribute with the submission. This application does not provide a general first-time Google account onboarding flow.
+## Judge Access
+
+Demo account:
+Email: varunsrinivas2904@gmail.com
+
+Password: Shared separately with the judging team through mail
+
+### How to use
+1. Sign into the provided Google account.
+2. Open the Nova demo.
+3. Run: `Prepare me for my Acme meeting tomorrow.`
+4. Review the retrieved Calendar, Gmail, and Drive evidence.
+5. Review the generated meeting brief.
+6. Click **Draft follow-up in Gmail →** to review the generated draft.
 
 ### Install dependencies
 
